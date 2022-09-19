@@ -1,25 +1,25 @@
 {
   "domain": "sacroofficium.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#001cb1",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/20180206_185550.jpg",
-  "name": "sacroofficium",
-  "short_name": "sacroofficium",
+  "name": "SACRO OFFICIUM",
+  "short_name": "SACRO OFFICIUM",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/20180206_185550.jpg",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#393e46",
-  "icon": "/img/icon.png",
+  "secondary_color": "#cd0000",
+  "icon": "/img/uploads/20180206_185550.jpg",
   "store_id": 8158,
-  "description": "sacroofficium",
-  "large_icon": "/img/large-icon.png"
+  "description": "SACRO OFFICIUM Arte & Artesanato",
+  "large_icon": "/img/uploads/20180206_185550.jpg"
 }
