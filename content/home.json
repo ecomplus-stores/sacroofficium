@@ -3,20 +3,6 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 5000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/20180206_185550.jpg",
-          "mobile_img": "/img/uploads/20180206_185550.jpg",
-          "link": "https://sacroofficium.netlify.app/casinhaacoriana-c779"
-        }
-      ]
-    },
-    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "views"
