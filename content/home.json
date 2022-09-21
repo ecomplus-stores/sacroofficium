@@ -3,10 +3,16 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2022-09-20T12:54:55.115Z",
-      "end": "2022-09-20T12:54:55.187Z"
+      "type": "banner-slider",
+      "autoplay": 5000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/20180206_185550.jpg"
+        }
+      ]
     }
   ]
 }
