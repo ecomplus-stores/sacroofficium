@@ -7,7 +7,7 @@
     "pages": [
       {
         "title": "Sobre nós - texto alterado",
-        "link": "/pages/sobre-nos"
+        "link": "https://sacroofficium.netlify.app/admin/#/collections/settings/entries/contacts"
       },
       {
         "title": "Esta loja é um PWA",
