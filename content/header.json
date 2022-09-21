@@ -6,7 +6,7 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
+        "title": "Sobre nós - texto alterado",
         "link": "/pages/sobre-nos"
       },
       {
@@ -23,5 +23,7 @@
     "full_width": false
   },
   "desktop_megamenu": false,
-  "search_input": true
+  "search_input": true,
+  "alphabetical_order_submenu": true,
+  "full_width_submenu": true
 }
