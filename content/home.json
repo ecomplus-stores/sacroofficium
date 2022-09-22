@@ -21,6 +21,18 @@
           "img": "/img/uploads/20180206_185550.jpg"
         }
       ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/20180206_185445.jpg"
+        }
+      ]
     }
   ]
 }
