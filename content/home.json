@@ -8,8 +8,7 @@
       "sort": "views"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner2.png"
+      "type": "banners-grid"
     }
   ]
 }
