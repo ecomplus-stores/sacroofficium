@@ -1,9 +1,9 @@
 {
   "domain": "sacroofficium.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#001cb1",
+  "primary_color": "#0123aa",
   "theme": {
-    "bootswatch": "_",
+    "bootswatch": "cerulean",
     "custom": "_"
   },
   "bg_color": "#ffffff",
@@ -17,7 +17,7 @@
   "favicon": "/img/uploads/20180206_185550.jpg",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#cd0000",
+  "secondary_color": "#10026a",
   "icon": "/img/uploads/20180206_185550.jpg",
   "store_id": 8158,
   "description": "SACRO OFFICIUM Arte & Artesanato",
