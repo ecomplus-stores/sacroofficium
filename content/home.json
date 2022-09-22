@@ -15,32 +15,10 @@
           "mobile_img": "/img/uploads/20180206_185445.jpg"
         },
         {
-          "img": "/img/uploads/20180206_190028.jpg"
-        },
-        {
           "img": "/img/uploads/20180206_185550.jpg"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 2000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/20180206_185445.jpg"
         },
         {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/20180206_190028.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/20180206_185550.jpg"
         }
       ]
     }
