@@ -24,7 +24,7 @@
     },
     {
       "type": "banner-slider",
-      "autoplay": 1000,
+      "autoplay": 2000,
       "full_width": false,
       "slides": [
         {
