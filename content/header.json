@@ -9,7 +9,7 @@
     "pages": [
       {
         "title": "Sobre nós ",
-        "link": "/sobre-nos"
+        "link": "https://sacroofficium.netlify.app/admin/#/collections/extra-pages/entries/sobre-nos"
       }
     ],
     "phone_wpp": true,
