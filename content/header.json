@@ -10,13 +10,18 @@
       {
         "title": "Sobre nós ",
         "link": "https://sacroofficium.netlify.app/pages/sobre-nos"
+      },
+      {
+        "title": "SACRO OFFICIUM"
       }
     ],
     "phone_wpp": true,
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/sacro-officium?Sacro Officium"
+    ],
     "random": 6,
     "full_width": false
   },
