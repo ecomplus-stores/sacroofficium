@@ -15,17 +15,15 @@
         "title": "SACRO OFFICIUM"
       },
       {
-        "title": "DEPOIMENTOS",
-        "link": "https://sacroofficium.netlify.app/extra-pages/entries/depoimentos"
+        "title": "",
+        "link": ""
       }
     ],
     "phone_wpp": true,
     "socials": true
   },
   "categories_list": {
-    "featured": [
-      "/sacro-officium?Sacro Officium"
-    ],
+    "featured": [],
     "random": 6,
     "full_width": false
   },
