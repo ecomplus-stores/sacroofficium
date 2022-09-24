@@ -3,10 +3,6 @@
   "body": "Acima, alguns depoimentos de seguidores e clientes, colhidos no Instagram.",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/depoimento-1.png"
-    },
-    {
       "type": "custom-content",
       "markdown": "![](/img/uploads/depoimento-1.png)\n\n![](/img/uploads/depoimento-2.png)"
     }
