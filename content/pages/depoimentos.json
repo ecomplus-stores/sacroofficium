@@ -5,6 +5,10 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/depoimento-1.png"
+    },
+    {
+      "type": "custom-content",
+      "markdown": "![](/img/uploads/depoimento-2.png)"
     }
   ]
 }
