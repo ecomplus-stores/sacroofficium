@@ -1,5 +1,6 @@
 {
-  "domain": "sacroofficium.netlify.app",
+  "domain": "sacroofficium.com",
+  "repository": "ecomplus-stores/sacroofficium",
   "currency_symbol": "R$",
   "primary_color": "#0123aa",
   "theme": {
