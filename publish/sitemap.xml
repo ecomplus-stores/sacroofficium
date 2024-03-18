@@ -368,13 +368,13 @@
     </url>
   
     <url>
-      <loc>https://sacroofficium.com/pages/termos</loc>
+      <loc>https://sacroofficium.com/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://sacroofficium.com/pages/trocas</loc>
+      <loc>https://sacroofficium.com/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
