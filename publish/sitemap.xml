@@ -392,15 +392,15 @@
     </url>
   
     <url>
-      <loc>https://sacroofficium.com/</loc>
-      <changefreq>daily</changefreq>
-      <priority>1</priority>
-    </url>
-  
-    <url>
       <loc>https://sacroofficium.com/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://sacroofficium.com/</loc>
+      <changefreq>daily</changefreq>
+      <priority>1</priority>
     </url>
   
     <url>
@@ -410,13 +410,13 @@
     </url>
   
     <url>
-      <loc>https://sacroofficium.com/admin/index</loc>
+      <loc>https://sacroofficium.com/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://sacroofficium.com/app/index</loc>
+      <loc>https://sacroofficium.com/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
