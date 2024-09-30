@@ -320,13 +320,13 @@
     </url>
   
     <url>
-      <loc>https://sacroofficium.com/pages/depoimentos</loc>
+      <loc>https://sacroofficium.com/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://sacroofficium.com/pages/contato</loc>
+      <loc>https://sacroofficium.com/pages/depoimentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
