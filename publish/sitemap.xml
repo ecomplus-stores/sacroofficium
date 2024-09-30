@@ -380,13 +380,13 @@
     </url>
   
     <url>
-      <loc>https://sacroofficium.com/blog</loc>
+      <loc>https://sacroofficium.com/404</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
-      <loc>https://sacroofficium.com/404</loc>
+      <loc>https://sacroofficium.com/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
