@@ -332,19 +332,13 @@
     </url>
   
     <url>
-      <loc>https://sacroofficium.com/pages/entrega</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://sacroofficium.com/pages/faq</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://sacroofficium.com/pages/pagamentos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://sacroofficium.com/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -356,13 +350,19 @@
     </url>
   
     <url>
-      <loc>https://sacroofficium.com/pages/sobre-nos</loc>
+      <loc>https://sacroofficium.com/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
       <loc>https://sacroofficium.com/pages/termos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://sacroofficium.com/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -404,13 +404,13 @@
     </url>
   
     <url>
-      <loc>https://sacroofficium.com/app/index</loc>
+      <loc>https://sacroofficium.com/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://sacroofficium.com/admin/index</loc>
+      <loc>https://sacroofficium.com/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
